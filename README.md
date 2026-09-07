@@ -33,21 +33,11 @@ The application is structured into 5 dedicated tabs. PDF output reports generate
 
 | Dashboard Section | Primary Functionality | Exported Report PDF |
 | --- | --- | --- |
-| **1. 📋 Overview** | High-level KPI metrics (Total Sales, Order Value, Ratings) & Raw Data Inspector.
-
- | `overview.pdf`<br> |
-| **2. 🔎 Data Quality** | Null check summary, duplicate scanner, data type table & range validation.
-
- | `data quality page.pdf`<br> |
-| **3. 💰 Sales Analysis** | Granular revenue aggregations by Branch, Category, Payment Method, and Customer Type.
-
- | `sales analysis.pdf`<br> |
-| **4. 📊 Charts** | 10 interactive Plotly charts (Monthly trend line, branch bar chart, heatmaps, scatter plots).
-
- | `charts dashboard.pdf`<br> |
-| **5. 🏆 Business Insights** | Automated strategic recommendations & quick insight summary matrix.
-
- | `business insights.pdf`<br> |
+| **1. 📋 Overview** | High-level KPI metrics (Total Sales, Order Value, Ratings) & Raw Data Inspector. | [`overview.pdf`](overview.pdf) |
+| **2. 🔎 Data Quality** | Null check summary, duplicate scanner, data type table & range validation. | [`data quality page.pdf`](data%20quality%20page.pdf) |
+| **3. 💰 Sales Analysis** | Granular revenue aggregations by Branch, Category, Payment Method, and Customer Type. | [`sales analysis.pdf`](sales%20analysis.pdf) |
+| **4. 📊 Charts** | 10 interactive Plotly charts (Monthly trend line, branch bar chart, heatmaps, scatter plots). | [`charts dashboard.pdf`](charts%20dashboard.pdf) |
+| **5. 🏆 Business Insights** | Automated strategic recommendations & quick insight summary matrix. | [`business insights.pdf`](business%20insights.pdf) |
 
 ---
 
@@ -129,3 +119,13 @@ Open your browser and navigate to `http://localhost:8501`.
 
 
 * **Customer Retention**: Member and Normal customers contributed almost equally (~50.8% vs 49.2%), presenting an opportunity for targeted loyalty program conversions.
+
+
+---
+
+## 👨‍💻 Author
+
+**Ashish Saval**  
+*MCA Fresher* | Data Analyst & Developer
+
+---
