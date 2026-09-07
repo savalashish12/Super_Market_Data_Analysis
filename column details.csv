@@ -1,0 +1,17 @@
+﻿Column,Dtype,Non-Null Count,Unique Values,Sample
+Invoice ID,str,10500,10500,INV0001
+Date,datetime64[us],10500,182,2026-06-01 00:00:00
+Branch,str,10500,4,A
+City,str,10500,4,Jaipur
+Customer Type,str,10500,2,Member
+Gender,str,10500,2,Male
+Product,str,10500,20,Milk
+Category,str,10500,8,Dairy
+Quantity,int64,10500,10,4
+Unit Price,float64,10500,7065,57.13
+Payment,str,10500,4,UPI
+Rating,float64,10500,21,3.8
+Sales,float64,10500,9503,228.52
+Month,str,10500,7,2026-06
+DayOfWeek,str,10500,7,Monday
+Calculated Sales,float64,10500,9620,228.52

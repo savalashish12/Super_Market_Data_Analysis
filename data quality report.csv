@@ -1,0 +1,17 @@
+﻿Column,Missing Count,Missing %,Status
+Invoice ID,0,0,✅ Clean
+Date,0,0,✅ Clean
+Branch,0,0,✅ Clean
+City,0,0,✅ Clean
+Customer Type,0,0,✅ Clean
+Gender,0,0,✅ Clean
+Product,0,0,✅ Clean
+Category,0,0,✅ Clean
+Quantity,0,0,✅ Clean
+Unit Price,0,0,✅ Clean
+Payment,0,0,✅ Clean
+Rating,0,0,✅ Clean
+Sales,0,0,✅ Clean
+Month,0,0,✅ Clean
+DayOfWeek,0,0,✅ Clean
+Calculated Sales,0,0,✅ Clean
